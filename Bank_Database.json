@@ -1,3 +1,17 @@
 {
-    "username" : ["password",1000,["Transactional history"]]
+    "username": [
+        "password",
+        1000,  
+        [
+            "Transactional history"
+        ]
+    ],
+    "Abhishek Jain": [
+        "123456",
+        1200.0,
+        [
+            "Initial balance: 1000",
+            "Deposited amount: 200.0, Balance: 1200.0"
+        ]
+    ]
 }
