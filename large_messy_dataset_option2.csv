@@ -1,0 +1,301 @@
+CustomerID,Name,Age,Salary,City,Email,JoiningDate
+0, riya ,,116530,,riya48@gmail.com,2023/04/20
+139, rohit ,32.0,,,rohit42@gmail.com,15/02/2023
+2,Anjali,,-10000,Chandigarh,anjali18@gmail.com,March 10 2023
+3, riya ,-3.0,-10000,Kolkata,riya8@gmail.com,2023/04/20
+58,Karan,,112349,Delhi,karan43@gmail.com,2023-01-15
+5,Simran,-3.0,Not Available,Chandigarh,simran14@gmail.com,2023/04/20
+6, Raj ,0.0,,,raj21@gmail.com,2023-01-15
+7, Priya ,-3.0,-10000,Bangalore,priya42@gmail.com,March 10 2023
+35,raj,0.0,-10000,Chandigarh,raj15@gmail.com,2023-01-15
+119, Aman ,0.0,98172,Bangalore,aman25@gmail.com,2023/04/20
+10, Aman ,-3.0,Not Available,Delhi,aman19@gmail.com,
+11,Aman,,86542,,aman20@gmail.com,15/02/2023
+28,Priya,51.0,Not Available,Bangalore,priya2@gmail.com,March 10 2023
+13,simran,23.0,-10000,Delhi,simran49@gmail.com,15/02/2023
+102, Anjali ,0.0,,,anjali20@gmail.com,
+15, anjali ,39.0,,Kolkata,anjali15@gmail.com,2023-01-15
+16, simran ,39.0,,Chandigarh,simran43@gmail.com,2023/04/20
+17,Raj,0.0,-10000,Bangalore,raj13@gmail.com,
+18,Priya,21.0,-10000,,priya22@gmail.com,15/02/2023
+19, Simran ,-3.0,,Delhi,simran29@gmail.com,2023-01-15
+20,Aman,,-10000,Bangalore,aman14@gmail.com,15/02/2023
+21,rohit,-3.0,-10000,Mumbai,rohit13@gmail.com,2023-01-15
+22, Aman ,0.0,,Delhi,aman33@gmail.com,2023-01-15
+107, Riya ,,95880,Kolkata,riya6@gmail.com,March 10 2023
+24,Simran,0.0,Not Available,Bangalore,simran21@gmail.com,
+25, riya ,,65745,Mumbai,riya24@gmail.com,
+34,Karan,59.0,Not Available,,karan7@gmail.com,2023-01-15
+67, Riya ,,Not Available,Mumbai,riya44@gmail.com,March 10 2023
+28,aman,35.0,Not Available,Mumbai,aman41@gmail.com,
+10, Rohit ,27.0,,Bangalore,rohit9@gmail.com,March 10 2023
+30, Aman ,33.0,-10000,Kolkata,aman48@gmail.com,15/02/2023
+27, Raj ,0.0,,Chandigarh,raj11@gmail.com,2023-01-15
+49,anjali,-3.0,,Mumbai,anjali2@gmail.com,March 10 2023
+33,Karan,-3.0,-10000,,karan35@gmail.com,2023-01-15
+80,karan,34.0,-10000,Chandigarh,karan47@gmail.com,2023/04/20
+35,Riya,34.0,-10000,Delhi,riya34@gmail.com,March 10 2023
+129,rohit,-3.0,106951,,rohit20@gmail.com,
+44, Priya ,,-10000,,priya48@gmail.com,
+54, Aman ,-3.0,-10000,Bangalore,aman44@gmail.com,15/02/2023
+39,riya,-3.0,,,riya20@gmail.com,15/02/2023
+49,aman,57.0,-10000,,aman37@gmail.com,
+132,rohit,18.0,,Mumbai,rohit45@gmail.com,2023-01-15
+129, Simran ,0.0,Not Available,Bangalore,simran40@gmail.com,2023/04/20
+133,Anjali,0.0,,,anjali18@gmail.com,15/02/2023
+44,Karan,-3.0,Not Available,Kolkata,karan6@gmail.com,15/02/2023
+45,Rohit,0.0,Not Available,Kolkata,rohit30@gmail.com,15/02/2023
+99,Rohit,0.0,82518,Chandigarh,rohit20@gmail.com,2023/04/20
+47, Simran ,49.0,Not Available,,simran44@gmail.com,
+48,Raj,43.0,-10000,Mumbai,raj30@gmail.com,March 10 2023
+49,Rohit,0.0,-10000,Chandigarh,rohit6@gmail.com,2023/04/20
+50,Aman,59.0,105426,Delhi,aman16@gmail.com,2023/04/20
+51,raj,,Not Available,Chandigarh,raj11@gmail.com,March 10 2023
+52,Riya,0.0,,Delhi,riya38@gmail.com,March 10 2023
+17,Riya,-3.0,-10000,,riya24@gmail.com,2023-01-15
+133, Rohit ,0.0,,Bangalore,rohit12@gmail.com,2023/04/20
+55,Anjali,-3.0,,Delhi,anjali18@gmail.com,
+87,Rohit,,,Chandigarh,rohit17@gmail.com,2023/04/20
+61,Karan,30.0,-10000,Bangalore,karan36@gmail.com,
+148, Anjali ,0.0,,Chandigarh,anjali43@gmail.com,
+59,Priya,-3.0,-10000,Chandigarh,priya20@gmail.com,2023-01-15
+150,Simran,,-10000,Chandigarh,simran47@gmail.com,2023-01-15
+13,simran,37.0,,Chandigarh,simran3@gmail.com,15/02/2023
+13, anjali ,0.0,-10000,Chandigarh,anjali12@gmail.com,
+63,Riya,22.0,,Kolkata,riya20@gmail.com,2023-01-15
+109,Rohit,0.0,-10000,Chandigarh,rohit38@gmail.com,2023/04/20
+65,Aman,,54687,Mumbai,aman16@gmail.com,15/02/2023
+72,Aman,-3.0,,Chandigarh,aman46@gmail.com,2023-01-15
+38,Simran,,75723,Kolkata,simran15@gmail.com,15/02/2023
+77,riya,-3.0,77560,Bangalore,riya45@gmail.com,March 10 2023
+69,Anjali,-3.0,Not Available,Delhi,anjali6@gmail.com,March 10 2023
+70, Aman ,0.0,,Kolkata,aman28@gmail.com,
+73,Priya,,-10000,,priya32@gmail.com,2023/04/20
+118,Aman,38.0,72976,,aman35@gmail.com,2023-01-15
+73,Simran,0.0,119613,Mumbai,simran18@gmail.com,March 10 2023
+3,Anjali,,,Chandigarh,anjali36@gmail.com,2023-01-15
+74,Simran,47.0,,Bangalore,simran46@gmail.com,
+76, Anjali ,,,Kolkata,anjali33@gmail.com,March 10 2023
+77,Rohit,35.0,Not Available,Kolkata,rohit38@gmail.com,
+61,Anjali,0.0,Not Available,Mumbai,anjali45@gmail.com,15/02/2023
+32,rohit,0.0,,Bangalore,rohit3@gmail.com,2023-01-15
+67,anjali,,,Delhi,anjali31@gmail.com,2023/04/20
+81,Rohit,0.0,-10000,Kolkata,rohit3@gmail.com,March 10 2023
+82,Simran,24.0,,,simran20@gmail.com,March 10 2023
+83,aman,,-10000,Kolkata,aman44@gmail.com,15/02/2023
+65,Riya,0.0,,Mumbai,riya30@gmail.com,March 10 2023
+76,Aman,,-10000,Chandigarh,aman38@gmail.com,March 10 2023
+91, Anjali ,0.0,,Bangalore,anjali37@gmail.com,March 10 2023
+127,Aman,35.0,94177,Kolkata,aman48@gmail.com,15/02/2023
+10, priya ,,102345,,priya42@gmail.com,
+33,Aman,-3.0,-10000,Mumbai,aman13@gmail.com,2023/04/20
+90, Karan ,-3.0,Not Available,Delhi,karan30@gmail.com,15/02/2023
+31,Rohit,41.0,71717,Chandigarh,rohit35@gmail.com,March 10 2023
+143,Karan,41.0,,Bangalore,karan2@gmail.com,2023/04/20
+93,Simran,-3.0,-10000,Delhi,simran9@gmail.com,March 10 2023
+138, anjali ,,-10000,Chandigarh,anjali43@gmail.com,2023/04/20
+55,Raj,0.0,56666,,raj24@gmail.com,
+31, Simran ,-3.0,-10000,Chandigarh,simran13@gmail.com,2023-01-15
+97,Simran,19.0,,Mumbai,simran37@gmail.com,2023/04/20
+33,Simran,-3.0,39340,Chandigarh,simran10@gmail.com,15/02/2023
+99, Riya ,-3.0,Not Available,Delhi,riya12@gmail.com,15/02/2023
+100,Rohit,0.0,67453,Bangalore,rohit33@gmail.com,2023/04/20
+125,Karan,0.0,-10000,,karan7@gmail.com,2023-01-15
+135, Riya ,-3.0,Not Available,Bangalore,riya39@gmail.com,
+86,rohit,,-10000,Mumbai,rohit27@gmail.com,
+104,Rohit,-3.0,,,rohit31@gmail.com,2023-01-15
+143,Riya,,92924,Kolkata,riya36@gmail.com,2023-01-15
+106,Rohit,45.0,Not Available,Chandigarh,rohit7@gmail.com,15/02/2023
+107, anjali ,-3.0,Not Available,Kolkata,anjali15@gmail.com,2023/04/20
+144, karan ,-3.0,66009,Mumbai,karan10@gmail.com,2023-01-15
+40,Raj,,-10000,Bangalore,raj22@gmail.com,March 10 2023
+20,Priya,23.0,,Kolkata,priya4@gmail.com,
+28,Rohit,,118951,Chandigarh,rohit28@gmail.com,2023/04/20
+112,Anjali,0.0,98554,Delhi,anjali14@gmail.com,15/02/2023
+58, karan ,0.0,,Bangalore,karan35@gmail.com,2023-01-15
+146, Rohit ,0.0,Not Available,Kolkata,rohit28@gmail.com,
+22, karan ,,-10000,,karan24@gmail.com,2023-01-15
+116,Simran,0.0,Not Available,Mumbai,simran22@gmail.com,2023/04/20
+37, Riya ,-3.0,,Mumbai,riya7@gmail.com,15/02/2023
+144,Raj,59.0,-10000,Bangalore,raj49@gmail.com,2023/04/20
+77,Priya,0.0,-10000,Bangalore,priya41@gmail.com,2023/04/20
+120, Aman ,0.0,24929,Chandigarh,aman19@gmail.com,2023/04/20
+121,Rohit,0.0,,Chandigarh,rohit39@gmail.com,2023-01-15
+112,anjali,39.0,,Delhi,anjali16@gmail.com,2023/04/20
+123,Raj,0.0,64350,,raj42@gmail.com,March 10 2023
+36,Riya,,63694,Kolkata,riya43@gmail.com,March 10 2023
+125,rohit,-3.0,-10000,,rohit22@gmail.com,
+126,priya,-3.0,,Mumbai,priya9@gmail.com,March 10 2023
+127,Riya,51.0,Not Available,Kolkata,riya9@gmail.com,15/02/2023
+60,Raj,0.0,-10000,Chandigarh,raj44@gmail.com,2023/04/20
+146,Karan,,-10000,Mumbai,karan24@gmail.com,
+123,Karan,,,Chandigarh,karan4@gmail.com,2023/04/20
+131,Riya,-3.0,,Chandigarh,riya29@gmail.com,
+128, Riya ,-3.0,-10000,Delhi,riya26@gmail.com,15/02/2023
+9,Rohit,-3.0,Not Available,Mumbai,rohit9@gmail.com,
+38,Raj,57.0,30384,Chandigarh,raj14@gmail.com,2023-01-15
+135, karan ,0.0,-10000,Delhi,karan8@gmail.com,2023/04/20
+21, Simran ,-3.0,-10000,Mumbai,simran43@gmail.com,2023-01-15
+137,Aman,0.0,Not Available,,aman2@gmail.com,March 10 2023
+138,Simran,-3.0,37486,Chandigarh,simran35@gmail.com,
+139,Anjali,0.0,Not Available,Mumbai,anjali3@gmail.com,March 10 2023
+73,Karan,0.0,53202,,karan13@gmail.com,2023-01-15
+47,priya,0.0,-10000,Bangalore,priya22@gmail.com,
+139,Priya,0.0,-10000,Kolkata,priya12@gmail.com,March 10 2023
+113,riya,0.0,-10000,Mumbai,riya45@gmail.com,
+103,Aman,0.0,55986,Delhi,aman43@gmail.com,2023/04/20
+93, Raj ,0.0,,Delhi,raj16@gmail.com,
+135,Aman,-3.0,78188,Kolkata,aman9@gmail.com,
+147, Priya ,25.0,,Bangalore,priya34@gmail.com,March 10 2023
+148, Karan ,-3.0,-10000,Mumbai,karan8@gmail.com,
+140,Raj,-3.0,Not Available,,raj5@gmail.com,March 10 2023
+150,Raj,,,Delhi,raj13@gmail.com,
+101,Aman,,100209,Delhi,aman20@gmail.com,2023/04/20
+132,Rohit,,61553,Bangalore,rohit30@gmail.com,15/02/2023
+41, Raj ,50.0,,Chandigarh,raj11@gmail.com,15/02/2023
+154,Priya,36.0,,,priya36@gmail.com,March 10 2023
+155, Riya ,,Not Available,Kolkata,riya3@gmail.com,2023-01-15
+156,Karan,44.0,Not Available,,karan20@gmail.com,
+157,Karan,0.0,-10000,Bangalore,karan14@gmail.com,March 10 2023
+27,Priya,,Not Available,Kolkata,priya36@gmail.com,15/02/2023
+159,anjali,27.0,Not Available,Bangalore,anjali40@gmail.com,15/02/2023
+160,Priya,,-10000,Bangalore,priya20@gmail.com,2023-01-15
+120,Rohit,-3.0,26377,Chandigarh,rohit32@gmail.com,2023/04/20
+162,Aman,-3.0,Not Available,Delhi,aman26@gmail.com,March 10 2023
+100,karan,-3.0,101689,Mumbai,karan7@gmail.com,March 10 2023
+35, Priya ,0.0,85546,Delhi,priya3@gmail.com,
+76,anjali,-3.0,Not Available,Mumbai,anjali26@gmail.com,2023/04/20
+166, Anjali ,-3.0,63416,Bangalore,anjali38@gmail.com,2023/04/20
+43,anjali,,114555,Kolkata,anjali31@gmail.com,15/02/2023
+38,simran,,-10000,Chandigarh,simran27@gmail.com,15/02/2023
+143,Rohit,48.0,,Kolkata,rohit14@gmail.com,
+67, Rohit ,-3.0,Not Available,,rohit50@gmail.com,15/02/2023
+125, simran ,-3.0,,,simran46@gmail.com,
+37,Priya,-3.0,-10000,Bangalore,priya23@gmail.com,2023-01-15
+137, Karan ,-3.0,-10000,Mumbai,karan13@gmail.com,2023/04/20
+174,karan,,51779,,karan34@gmail.com,2023-01-15
+121,Riya,,,Bangalore,riya42@gmail.com,15/02/2023
+176,Karan,,90143,Mumbai,karan27@gmail.com,
+27,anjali,36.0,Not Available,Kolkata,anjali39@gmail.com,March 10 2023
+28,Anjali,,-10000,Chandigarh,anjali13@gmail.com,15/02/2023
+103,Anjali,-3.0,,Mumbai,anjali40@gmail.com,2023/04/20
+66,priya,,Not Available,Mumbai,priya1@gmail.com,15/02/2023
+181,Anjali,37.0,Not Available,,anjali16@gmail.com,
+182,karan,37.0,Not Available,Chandigarh,karan40@gmail.com,15/02/2023
+183,anjali,-3.0,-10000,Kolkata,anjali43@gmail.com,2023/04/20
+184,Riya,41.0,93946,Delhi,riya36@gmail.com,2023/04/20
+185,raj,46.0,,,raj38@gmail.com,2023/04/20
+186,Anjali,0.0,79873,Kolkata,anjali30@gmail.com,
+187,Karan,55.0,-10000,Chandigarh,karan45@gmail.com,2023-01-15
+188,anjali,0.0,-10000,Bangalore,anjali25@gmail.com,2023/04/20
+189,Raj,0.0,,,raj15@gmail.com,March 10 2023
+39,Anjali,0.0,,Bangalore,anjali23@gmail.com,15/02/2023
+8,riya,57.0,,Delhi,riya7@gmail.com,2023/04/20
+128, aman ,,,Delhi,aman9@gmail.com,15/02/2023
+56,Priya,,,,priya34@gmail.com,March 10 2023
+97,karan,0.0,-10000,Delhi,karan23@gmail.com,
+36,rohit,0.0,,Chandigarh,rohit46@gmail.com,2023-01-15
+20,Rohit,0.0,Not Available,Mumbai,rohit22@gmail.com,March 10 2023
+197,Riya,-3.0,69436,Delhi,riya13@gmail.com,
+198,Simran,,44906,,simran49@gmail.com,2023/04/20
+91, Simran ,-3.0,-10000,Kolkata,simran42@gmail.com,March 10 2023
+80,Priya,0.0,Not Available,Mumbai,priya24@gmail.com,2023-01-15
+58, Simran ,0.0,,Mumbai,simran22@gmail.com,2023/04/20
+202,Simran,-3.0,-10000,Bangalore,simran11@gmail.com,15/02/2023
+203,anjali,59.0,88674,Delhi,anjali43@gmail.com,
+123, Raj ,27.0,-10000,Chandigarh,raj4@gmail.com,2023-01-15
+205,Aman,-3.0,Not Available,Delhi,aman33@gmail.com,2023-01-15
+95, Riya ,-3.0,Not Available,Bangalore,riya6@gmail.com,
+141, Simran ,23.0,-10000,Bangalore,simran25@gmail.com,2023-01-15
+208, Aman ,-3.0,94167,Kolkata,aman3@gmail.com,2023/04/20
+209,anjali,35.0,Not Available,Delhi,anjali14@gmail.com,
+210,riya,0.0,Not Available,Bangalore,riya49@gmail.com,2023/04/20
+69,priya,-3.0,-10000,Chandigarh,priya2@gmail.com,
+212,Simran,,-10000,Delhi,simran50@gmail.com,2023-01-15
+213,riya,,-10000,Chandigarh,riya24@gmail.com,2023-01-15
+142,Karan,,,Bangalore,karan29@gmail.com,2023-01-15
+215,aman,-3.0,70493,Chandigarh,aman27@gmail.com,2023/04/20
+216, Simran ,,Not Available,Chandigarh,simran18@gmail.com,2023-01-15
+217,Raj,48.0,Not Available,Mumbai,raj47@gmail.com,
+85, riya ,-3.0,-10000,Chandigarh,riya29@gmail.com,2023/04/20
+74,Raj,0.0,,Bangalore,raj21@gmail.com,2023/04/20
+220, Simran ,-3.0,,Kolkata,simran35@gmail.com,
+221, Simran ,0.0,-10000,Mumbai,simran41@gmail.com,March 10 2023
+136,Raj,0.0,-10000,Kolkata,raj26@gmail.com,2023/04/20
+223,Aman,52.0,,,aman43@gmail.com,2023/04/20
+224,Aman,0.0,Not Available,Bangalore,aman7@gmail.com,March 10 2023
+225,Simran,,Not Available,Bangalore,simran30@gmail.com,March 10 2023
+87, Aman ,23.0,,Chandigarh,aman20@gmail.com,15/02/2023
+227, Anjali ,-3.0,Not Available,Delhi,anjali46@gmail.com,March 10 2023
+109, Riya ,,,Chandigarh,riya36@gmail.com,15/02/2023
+50, Rohit ,0.0,71849,,rohit40@gmail.com,2023/04/20
+230,Rohit,-3.0,118608,Kolkata,rohit7@gmail.com,March 10 2023
+231, priya ,0.0,Not Available,Kolkata,priya25@gmail.com,March 10 2023
+61,Priya,37.0,,Chandigarh,priya8@gmail.com,2023-01-15
+233, Raj ,0.0,,Kolkata,raj25@gmail.com,
+234,Raj,,-10000,Kolkata,raj4@gmail.com,
+113,raj,0.0,-10000,Bangalore,raj46@gmail.com,15/02/2023
+236,Riya,-3.0,Not Available,Mumbai,riya35@gmail.com,
+10, Anjali ,-3.0,Not Available,Kolkata,anjali49@gmail.com,2023/04/20
+238, Simran ,,59021,Bangalore,simran17@gmail.com,
+239, Riya ,-3.0,-10000,Mumbai,riya40@gmail.com,15/02/2023
+240,Aman,,Not Available,Chandigarh,aman37@gmail.com,15/02/2023
+241,Rohit,,,Mumbai,rohit10@gmail.com,
+23,anjali,0.0,-10000,Delhi,anjali41@gmail.com,2023/04/20
+117,Karan,0.0,62898,,karan6@gmail.com,2023-01-15
+244,rohit,0.0,Not Available,Chandigarh,rohit22@gmail.com,2023/04/20
+40,Anjali,21.0,-10000,Delhi,anjali8@gmail.com,
+92,Aman,-3.0,Not Available,Delhi,aman42@gmail.com,2023-01-15
+59,Priya,0.0,Not Available,,priya45@gmail.com,2023-01-15
+248,riya,,-10000,Delhi,riya1@gmail.com,
+35, Raj ,23.0,Not Available,Chandigarh,raj20@gmail.com,15/02/2023
+38,raj,,Not Available,,raj14@gmail.com,2023/04/20
+98, Anjali ,,118624,Kolkata,anjali47@gmail.com,
+252, Priya ,59.0,Not Available,,priya2@gmail.com,2023/04/20
+253, Simran ,,-10000,Delhi,simran16@gmail.com,2023/04/20
+44,Aman,0.0,-10000,Chandigarh,aman35@gmail.com,2023-01-15
+128, Aman ,31.0,-10000,Kolkata,aman19@gmail.com,
+256,rohit,,56368,Chandigarh,rohit6@gmail.com,15/02/2023
+257,Priya,59.0,-10000,,priya16@gmail.com,2023-01-15
+258,rohit,-3.0,,Delhi,rohit1@gmail.com,15/02/2023
+259,Anjali,,,,anjali50@gmail.com,2023-01-15
+130, Priya ,-3.0,113365,Bangalore,priya30@gmail.com,2023-01-15
+261, Anjali ,-3.0,33487,Mumbai,anjali48@gmail.com,2023-01-15
+262,aman,,43456,Kolkata,aman46@gmail.com,March 10 2023
+263,Simran,35.0,Not Available,Delhi,simran33@gmail.com,15/02/2023
+264, Aman ,-3.0,Not Available,Delhi,aman36@gmail.com,March 10 2023
+265,simran,,Not Available,Kolkata,simran32@gmail.com,15/02/2023
+96, Aman ,-3.0,103354,Chandigarh,aman1@gmail.com,2023-01-15
+59, Simran ,49.0,Not Available,Delhi,simran3@gmail.com,March 10 2023
+268, Anjali ,,-10000,Delhi,anjali38@gmail.com,
+269, raj ,0.0,Not Available,Chandigarh,raj29@gmail.com,2023-01-15
+80,simran,,,Bangalore,simran30@gmail.com,2023-01-15
+271, Priya ,0.0,54735,Delhi,priya11@gmail.com,15/02/2023
+272,priya,0.0,87300,,priya20@gmail.com,2023-01-15
+273,Rohit,,-10000,Delhi,rohit9@gmail.com,2023-01-15
+274,simran,41.0,Not Available,Delhi,simran2@gmail.com,
+146,raj,39.0,-10000,Delhi,raj11@gmail.com,
+276,anjali,-3.0,,Chandigarh,anjali18@gmail.com,2023-01-15
+35,Simran,0.0,27992,Chandigarh,simran25@gmail.com,15/02/2023
+124,Simran,0.0,Not Available,Bangalore,simran35@gmail.com,2023/04/20
+135, Priya ,,Not Available,Delhi,priya31@gmail.com,2023/04/20
+99, Simran ,,54934,Mumbai,simran37@gmail.com,15/02/2023
+281,raj,40.0,Not Available,Kolkata,raj37@gmail.com,
+282, karan ,,,Delhi,karan34@gmail.com,March 10 2023
+283,Simran,-3.0,27806,Mumbai,simran38@gmail.com,2023/04/20
+284,Priya,0.0,96810,Chandigarh,priya20@gmail.com,15/02/2023
+285,Rohit,-3.0,Not Available,Mumbai,rohit43@gmail.com,
+46, Karan ,29.0,-10000,Kolkata,karan3@gmail.com,2023/04/20
+287, Simran ,,63406,Mumbai,simran23@gmail.com,2023-01-15
+288, Priya ,33.0,Not Available,Delhi,priya47@gmail.com,
+25,Anjali,0.0,Not Available,Kolkata,anjali25@gmail.com,2023/04/20
+18, simran ,-3.0,Not Available,Chandigarh,simran7@gmail.com,15/02/2023
+291, rohit ,-3.0,-10000,,rohit2@gmail.com,2023/04/20
+292, rohit ,,Not Available,,rohit19@gmail.com,2023-01-15
+22,Aman,,Not Available,Delhi,aman28@gmail.com,2023/04/20
+101, anjali ,-3.0,-10000,Delhi,anjali20@gmail.com,
+11,karan,-3.0,Not Available,Mumbai,karan29@gmail.com,
+88,anjali,54.0,39808,Delhi,anjali43@gmail.com,2023/04/20
+121,Simran,0.0,-10000,Kolkata,simran16@gmail.com,2023-01-15
+298,Rohit,,-10000,Mumbai,rohit11@gmail.com,15/02/2023
+299,Aman,,,Kolkata,aman17@gmail.com,2023-01-15
