@@ -1,0 +1,211 @@
+customer_id,name,age,gender,signup_date,country,income,purchase_amount,email,phone,product_category,rating
+0,Grace,150,M,2022-12-17,Australia,80084.38,error,user0@mail,+91-985410930,electronics,1
+1,bob,61,M,02-26-2020,India,68858.96,error,user1@mail,N/A,Home,1
+33,bob,unknown,Male,2022-02-05,Canada,102744.82,1353.0,user2@mail,9831598012,clothes,five
+13,Judy,69,,02/10/2020,Australia,-5000,,user3@example.com,N/A,Sports,
+4,Judy,,male,2022-05-23,india,-5000,error,,N/A,electronics,2
+7,David ,42,M,2024-11-23,Canada,N/A,error,,9866115031,Home,five
+6,CHARLIE,21,M,2022-06-08,Australia,,error,user6@mail,9874290393,clothes,2
+7,Alice,69,male,2020-11-08,UK,,1146.64,user7@mail,,Sports,3
+8,David ,65,M,08/09/2021,uk ,67751.67,1871.27,,9884423724,home ,3
+25,bob,59,F,2022-05-04,Australia,N/A,,user9@example.com,,home ,3
+17,Ivan,,Male,2022-12-21,U.S.A,N/A,error,user10example.com,9816098130,Home,3
+11,Alice,150,F,2023-06-04,Canada,N/A,error,user11example.com,9893057846,electronics,4
+50,Grace,150,Female,09-18-2022,Canada,N/A,,user12@mail,+91-981799292,home ,five
+27, eva,,Female,2020-12-17,india,-5000,,user13example.com,+91-987600294,Electronics,
+14,Judy,150,Female,2022-11-18,UK,62294.6,1129.46,,+91-985637378,Sports,
+19,Grace,unknown,M,01-29-2024,UK,44369.15,error,user15@example.com,9854485452,Home,five
+33,David ,,Female,2020-09-16,CANADA,-5000,,user16example.com,N/A,Home,
+17,Frank,150,F,29/04/2020,U.S.A,N/A,,user17@mail,,clothes,5
+18,David ,37,M,2022-08-29,USA,N/A,,user18@mail,N/A,clothes,1
+42,Heidi,,Male,2020-07-01,CANADA,85109.02,error,,N/A,clothes,3
+14,Ivan,150,Female,21/01/2024,Australia,83265.81,67.67,user20example.com,+91-982908296,clothes,2
+21,Grace,unknown,,2024-07-20,Canada,N/A,42.26,user21@mail,9892609715,Home,five
+34,CHARLIE,,F,2023-05-24,Australia,96570.61,1944.81,user22@mail,+91-983398841,Clothing,5
+28,CHARLIE,,M,2022-06-03,U.S.A,N/A,1609.26,user23example.com,9821310034,Sports,3
+24, eva,150,female,2022-10-15,India,98322.06,,user24@mail,+91-981978623,Home,2
+25,CHARLIE,unknown,male,2024-07-30,Australia,-5000,error,user25example.com,+91-984143891,electronics,1
+26,Judy,,M,26/09/2024,CANADA,-5000,,,,Electronics,5
+25,Ivan,,F,14/11/2024,uk ,-5000,787.03,user27example.com,N/A,clothes,4
+22,Judy,150,male,12-05-2024,UK,N/A,,user28@example.com,,clothes,3
+29,Ivan,29,F,2019-05-27,uk ,-5000,,user29@mail,,Home,4
+30,Judy,unknown,M,28/06/2024,Australia,N/A,,,N/A,Sports,1
+31, eva,61,Female,2023-11-10,USA,N/A,,user31@example.com,9876917643,Electronics,
+32, eva,unknown,Male,05/04/2021,Australia,N/A,1630.08,user32@example.com,+91-987507256,clothes,5
+33,Ivan,,male,2022-08-17,U.S.A,,,,+91-986194345,electronics,4
+34, eva,,M,2024-02-23,U.S.A,N/A,error,user34@example.com,9828884821,Home,3
+35,bob,64,,2022-03-03,uk ,-5000,,,9855512341,electronics,4
+6,bob,150,Female,2021-12-03,india,-5000,error,user36@example.com,N/A,electronics,five
+37, eva,52,Male,2024-04-13,uk ,,error,,9883180002,Sports,1
+38,David ,42,male,2021-06-13,uk ,N/A,error,user38example.com,,electronics,4
+39,Grace,150,female,2022-04-09,Australia,-5000,error,user39example.com,N/A,clothes,
+40,David ,,F,2021-10-20,India,21413.17,,user40@example.com,,Home,five
+41,Alice,150,M,2022-03-13,Canada,,error,user41@example.com,,home ,5
+10, eva,,male,2023-08-03,Canada,103595.89,error,,+91-989230443,home ,
+43,Frank,150,M,01-21-2021,UK,N/A,,user43example.com,9870081223,clothes,4
+44,Frank,,M,05/06/2022,Canada,-5000,824.97,,N/A,electronics,five
+45,Heidi,unknown,M,2022-05-17,CANADA,111712.51,,user45@mail,,clothes,five
+46,Alice,unknown,Female,23/01/2021,india,41317.43,error,user46@example.com,9812286697,Sports,5
+47,Judy,,,2022-09-30,UK,N/A,271.5,user47@mail,9864192907,Home,
+48,Grace,unknown,,2021-08-15,india,-5000,error,user48@example.com,9836882049,Clothing,5
+49,Alice,150,Female,2022-01-23,U.S.A,-5000,,user49@example.com,+91-983955905,Electronics,4
+10,Ivan,,male,2022-10-14,uk ,,error,,,clothes,1
+51,bob,52,female,2023-07-15,India,,,user51@mail,N/A,clothes,4
+52,bob,unknown,Male,2022-03-05,U.S.A,,error,user52@mail,N/A,Home,1
+53, eva,150,Male,2019-11-10,UK,,error,user53example.com,+91-989505430,home ,
+5,Grace,,,2023-09-09,Canada,,error,user54@example.com,,Sports,5
+55,CHARLIE,150,Male,03-24-2019,Canada,-5000,1722.42,user55@example.com,9828858354,Clothing,5
+56,Frank,unknown,Male,2024-09-30,U.S.A,40005.84,,user56example.com,,Sports,1
+57,Frank,unknown,F,2021-12-04,U.S.A,,error,user57example.com,+91-986700299,Sports,5
+58,Frank,50,M,06/04/2022,U.S.A,102441.33,error,,+91-983271488,home ,
+59,David ,150,Male,19/01/2019,U.S.A,56438.34,error,,,Sports,
+31,CHARLIE,unknown,M,2020-02-01,India,N/A,error,,N/A,electronics,
+38,Ivan,unknown,female,09/08/2022,CANADA,-5000,1674.11,,+91-984271528,Sports,five
+62,CHARLIE,unknown,,2022-02-19,CANADA,N/A,error,,9817772677,Home,
+23,Alice,,Female,05-13-2024,uk ,40679.2,error,user63@mail,,home ,4
+36,David ,67,male,29/07/2020,CANADA,-5000,,user64@example.com,+91-981044368,clothes,4
+65,CHARLIE,150,male,2021-07-15,USA,,error,,N/A,clothes,
+66,Ivan,unknown,Male,2019-04-18,U.S.A,N/A,1042.78,,,clothes,5
+44,Judy,150,Male,2019-01-11,india,-5000,,user67@mail,9849639378,Clothing,
+68,Frank,44,M,2020-09-18,uk ,98903.54,,user68@mail,9889289979,electronics,3
+69,CHARLIE,unknown,Male,11-15-2019,Canada,N/A,1201.52,user69example.com,+91-984696511,Electronics,1
+14,Frank,,F,10/07/2020,USA,-5000,644.0,,,clothes,1
+32,Ivan,150,Female,2021-09-20,India,N/A,403.1,user71example.com,9810295183,home ,2
+72,Frank,45,Female,2024-02-07,UK,-5000,1828.92,user72@mail,N/A,home ,
+73,bob,150,Male,2020-03-04,USA,20472.23,83.76,user73example.com,9899694267,electronics,2
+74,Frank,,male,2022-01-20,Australia,105387.74,18.48,user74example.com,N/A,Electronics,
+75,Ivan,unknown,male,2024-10-14,U.S.A,,,user75@example.com,9814940058,Home,2
+76,Judy,150,female,2022-12-04,India,37799.47,,,+91-985602970,home ,five
+77,Alice,150,,2019-03-17,uk ,-5000,,user77example.com,+91-981860411,electronics,4
+78,Frank,unknown,female,11-12-2020,india,-5000,357.35,user78@mail,+91-982911332,electronics,2
+79,David ,150,Male,2022-06-21,UK,-5000,621.57,user79example.com,+91-986319855,Clothing,five
+80,CHARLIE,,female,24/04/2023,Canada,N/A,error,user80@example.com,,Sports,5
+81,Frank,45,Male,2021-09-02,india,,,,N/A,Sports,5
+82,Heidi,27,M,2019-02-11,Australia,,603.12,user82@mail,+91-984910037,Sports,5
+5,David ,150,,2022-08-17,Canada,-5000,,user83@mail,,electronics,3
+10,Alice,67,,2022-07-24,U.S.A,,,user84@mail,9869558456,Clothing,five
+49,Judy,,F,02/09/2020,Canada,-5000,error,user85@mail,,Clothing,2
+86,Ivan,23,male,09-11-2019,India,N/A,217.72,user86example.com,N/A,electronics,five
+87,Grace,150,female,2020-05-18,india,,error,user87example.com,9829089001,Electronics,
+88,Ivan,150,F,2022-04-25,USA,N/A,error,user88@example.com,N/A,Sports,five
+89,Frank,150,female,10/04/2022,uk ,N/A,error,user89example.com,,Clothing,1
+48,Ivan,22,F,2020-11-21,uk ,-5000,391.73,user90example.com,N/A,Clothing,five
+91,Ivan,150,Female,10-16-2020,india,N/A,1366.97,user91@mail,N/A,electronics,4
+92, eva,unknown,female,20/10/2019,USA,,983.11,user92example.com,N/A,Clothing,2
+93,CHARLIE,unknown,Female,2023-07-07,CANADA,50451.94,,,9859764188,electronics,3
+14,Ivan,unknown,,07-24-2021,CANADA,,,user94example.com,9882795403,Clothing,4
+95,Ivan,150,M,05-08-2019,India,,,user95@example.com,9895033113,clothes,2
+96, eva,150,female,08/11/2023,CANADA,,error,user96@mail,N/A,Home,4
+24, eva,45,Female,2022-08-30,U.S.A,-5000,1077.49,,,Electronics,
+11,Frank,150,,2020-10-09,U.S.A,99446.39,364.59,user98@example.com,N/A,home ,2
+99,CHARLIE,unknown,female,2020-05-04,UK,48866.07,758.47,user99@example.com,,electronics,five
+36,Heidi,150,female,2021-03-16,Canada,52436.45,,user100example.com,N/A,Clothing,five
+101,David ,unknown,M,2023-06-06,U.S.A,76528.53,,,9868699245,clothes,2
+49,bob,150,Female,2019-02-27,uk ,,error,user102@example.com,9833229499,home ,
+103,Judy,54,F,2021-11-09,India,N/A,error,user103@mail,N/A,Home,
+104,Heidi,150,female,09-04-2022,CANADA,-5000,error,user104example.com,+91-987735490,electronics,3
+105,CHARLIE,34,female,2023-10-04,uk ,N/A,,user105@example.com,N/A,Sports,3
+106,CHARLIE,64,F,2024-08-23,Canada,N/A,,user106example.com,N/A,Clothing,5
+107,Frank,24,,25/09/2020,India,N/A,,user107example.com,,Sports,5
+43,Alice,44,F,2019-08-13,USA,,error,user108example.com,+91-985105257,Clothing,4
+109,Judy,,,2020-05-30,Australia,-5000,,,9877481570,Electronics,5
+110,Alice,150,male,02/12/2024,india,,1513.22,user110@mail,9871818697,Home,5
+111,Heidi,unknown,female,2023-08-21,uk ,98914.53,error,user111@example.com,N/A,Sports,2
+112,Ivan,unknown,M,02-04-2019,U.S.A,N/A,,user112example.com,,Sports,2
+2,Heidi,66,Female,2020-01-25,USA,-5000,1593.76,user113@mail,,clothes,
+15,Grace,,female,2020-01-20,UK,N/A,error,user114example.com,+91-984825341,electronics,3
+115,Ivan,unknown,female,2023-01-02,uk ,,1424.51,user115@example.com,9815777378,Sports,5
+116,Judy,,female,2019-10-24,U.S.A,N/A,error,user116@mail,N/A,home ,4
+117,Heidi,150,Male,2020-11-27,UK,,error,,9839088923,Clothing,2
+1,Heidi,unknown,,2020-04-25,India,-5000,error,user118example.com,9860642586,Sports,1
+119,Frank,,,2023-12-12,U.S.A,,1863.6,user119example.com,,clothes,1
+46,bob,150,female,2021-08-31,UK,-5000,,user120@example.com,9832072361,Sports,
+121,David ,unknown,M,2021-07-23,U.S.A,,1436.38,user121@mail,+91-983390159,Clothing,3
+122,CHARLIE,unknown,F,2020-03-11,uk ,21184.96,1274.23,user122example.com,+91-985544880,Sports,4
+123,Ivan,,Female,2021-02-20,india,,error,user123@mail,N/A,home ,5
+124,Frank,60,Female,25/08/2021,Australia,,,user124@mail,9891001536,clothes,3
+125,David ,,female,19/09/2020,UK,,error,user125@mail,N/A,Electronics,3
+126,Alice,28,M,2019-01-29,U.S.A,,,user126example.com,,Clothing,3
+127,CHARLIE,44,Male,2022-02-16,U.S.A,-5000,,user127@example.com,+91-984426588,Sports,3
+25,CHARLIE,150,female,17/11/2023,CANADA,-5000,,user128@mail,,Electronics,4
+129,Frank,63,Female,2024-12-21,Canada,,error,user129@mail,,clothes,
+130,Frank,21,Female,2024-07-18,Australia,106386.68,,,N/A,clothes,4
+131, eva,65,Male,2023-03-27,UK,,error,user131example.com,,electronics,4
+132,Alice,150,Male,12-16-2023,CANADA,N/A,error,user132example.com,+91-987790904,electronics,3
+19,bob,,M,2024-12-24,India,-5000,error,user133@example.com,9843247845,Home,
+134,Heidi,,Female,2022-02-16,Canada,83572.32,895.64,user134@example.com,N/A,clothes,1
+135,Heidi,150,Female,02/05/2023,India,-5000,383.69,,,clothes,
+136, eva,,Male,2024-08-29,U.S.A,N/A,,,,Electronics,5
+137,bob,150,male,02/03/2019,U.S.A,N/A,error,user137example.com,+91-987214248,Clothing,1
+45,Heidi,unknown,F,08/01/2019,india,N/A,error,user138@mail,9813181682,Sports,5
+34,Grace,59,Female,2020-08-25,USA,N/A,error,,9872471967,electronics,5
+140,Ivan,unknown,Male,2023-06-17,India,90029.89,error,user140@example.com,N/A,Electronics,3
+14,Judy,unknown,,2022-05-10,UK,-5000,1942.07,user141example.com,+91-989019492,home ,5
+32,Frank,,Male,31/01/2019,Canada,107439.91,78.11,user142@mail,N/A,Home,3
+143,David ,37,M,2023-06-18,U.S.A,N/A,1316.87,user143@mail,,Clothing,
+44,Heidi,,F,2020-04-19,USA,-5000,1439.32,user144@example.com,N/A,home ,2
+145,Heidi,,male,14/09/2023,Australia,81599.8,1762.23,user145example.com,+91-981877715,Home,five
+146,Grace,150,male,2022-10-14,U.S.A,N/A,56.42,,,Clothing,five
+147, eva,unknown,M,2024-01-12,Canada,-5000,error,,N/A,Electronics,4
+148,Grace,150,Female,2020-12-03,UK,N/A,error,user148example.com,N/A,clothes,4
+40,Alice,unknown,F,25/01/2019,india,,755.55,user149@example.com,+91-983736168,Sports,4
+150,Frank,42,Male,2024-04-18,India,,903.96,user150example.com,9890228460,Clothing,1
+151,Ivan,150,female,2023-09-09,Canada,,1407.7,user151example.com,N/A,home ,
+24,Ivan,,female,2021-12-26,CANADA,,1234.84,user152example.com,,Clothing,1
+153,David ,49,Female,2021-01-23,Canada,42504.93,error,user153example.com,N/A,home ,5
+154,Frank,unknown,M,2021-12-12,Canada,76153.92,,user154example.com,,home ,2
+2,Judy,150,,2022-11-25,Canada,56596.26,error,,N/A,Clothing,1
+156,bob,150,Male,2022-11-11,USA,-5000,,user156@example.com,9869853144,electronics,five
+157,Frank,unknown,female,30/03/2022,Australia,-5000,1185.72,user157@example.com,9819070288,clothes,3
+158,Frank,47,Female,03-20-2019,India,77097.82,,,N/A,home ,5
+159,Grace,,M,06/05/2020,India,,1361.64,user159@mail,N/A,Home,2
+160,bob,,Male,2024-01-01,India,N/A,error,user160@mail,9898901007,home ,1
+46,CHARLIE,unknown,Male,2022-03-01,uk ,95602.17,error,,+91-984841265,Clothing,1
+162,Frank,unknown,male,2024-11-06,U.S.A,N/A,,user162@mail,N/A,home ,1
+163,Ivan,,F,2021-12-03,uk ,-5000,1253.31,user163@mail,,home ,2
+164,Alice,,male,06-04-2021,UK,-5000,error,user164@mail,N/A,Home,
+165,Frank,unknown,F,11-27-2024,UK,-5000,,user165@mail,+91-987112762,Clothing,5
+166,Grace,,female,2022-04-07,UK,,error,user166@example.com,N/A,Home,1
+167,Frank,31,male,04/07/2022,Australia,,error,user167@example.com,+91-982955518,Electronics,5
+168,Frank,51,M,07-21-2022,uk ,N/A,1989.61,user168@mail,,Sports,4
+169,Frank,unknown,male,2022-11-05,UK,-5000,920.4,,,Home,1
+33,Grace,unknown,,07-27-2022,India,N/A,error,user170@example.com,N/A,Sports,1
+171,bob,,F,10/08/2022,uk ,N/A,error,,9853704891,Clothing,1
+16,bob,,M,2024-09-02,U.S.A,N/A,error,user172@example.com,+91-987227971,electronics,2
+32,Grace,150,,27/12/2021,Canada,N/A,1447.2,user173example.com,N/A,Sports,2
+174,Heidi,150,,08-07-2023,CANADA,,176.54,user174@mail,,home ,1
+175,Ivan,150,F,2019-06-17,UK,,error,user175@example.com,N/A,Sports,3
+176,bob,unknown,M,2021-06-02,U.S.A,N/A,error,user176example.com,N/A,Home,3
+177, eva,,male,2022-03-02,Canada,-5000,error,user177example.com,N/A,home ,3
+178,Frank,41,,2021-04-13,Australia,N/A,868.6,user178@example.com,N/A,Electronics,1
+179,Heidi,,,02/01/2019,uk ,N/A,1969.95,user179@mail,9812688841,electronics,
+180,Frank,46,male,2024-10-30,India,30547.11,1500.83,user180@mail,9815683456,Sports,4
+181, eva,150,Male,2019-06-25,uk ,N/A,,user181@example.com,,Clothing,five
+182,Heidi,,male,19/04/2019,India,,,,9880106320,Sports,2
+183,Judy,,male,14/11/2024,uk ,,,user183@mail,N/A,Clothing,
+184,Grace,unknown,male,2020-07-29,Australia,-5000,,,9851977398,Sports,4
+185,Grace,150,Male,2023-06-16,UK,N/A,869.71,user185example.com,+91-985426107,electronics,five
+186,Frank,47,M,2023-06-16,CANADA,N/A,error,user186@example.com,+91-985195759,Electronics,
+39,Heidi,44,,2020-08-07,Australia,39357.13,error,user187example.com,N/A,clothes,3
+188,CHARLIE,,M,12-27-2021,India,N/A,1833.52,user188example.com,,electronics,1
+189,Alice,48,female,10-17-2020,U.S.A,N/A,1230.92,,,clothes,3
+190,Ivan,60,,2023-09-23,india,78975.72,870.93,,+91-982387285,electronics,five
+22,Ivan,150,Male,2020-10-19,Canada,40196.44,error,,+91-982776973,Home,five
+192,bob,57,male,2020-07-15,india,,error,user192@mail,9896221257,Electronics,
+20,Ivan,150,F,2024-12-08,India,N/A,,user193@mail,+91-986267447,Home,3
+194, eva,69,male,25/12/2024,USA,-5000,error,user194@example.com,+91-982680489,Sports,1
+16,bob,150,female,2022-08-07,uk ,,error,,N/A,clothes,3
+196,Heidi,,female,13/11/2023,UK,,1527.17,user196@mail,,home ,4
+197,David ,,Male,2022-06-26,U.S.A,35018.2,,user197@mail,,Home,
+198,Judy,24,Female,2020-12-06,UK,-5000,89.79,,9886047020,clothes,5
+199,CHARLIE,unknown,Male,2020-01-25,Canada,,error,user199@example.com,9867901094,Home,
+58,Frank,50,M,06/04/2022,U.S.A,102441.33,error,,+91-983271488,home ,
+40,David ,,F,2021-10-20,India,21413.17,,user40@example.com,,Home,five
+34, eva,,M,2024-02-23,U.S.A,N/A,error,user34@example.com,9828884821,Home,3
+49,bob,150,Female,2019-02-27,uk ,,error,user102@example.com,9833229499,home ,
+184,Grace,unknown,male,2020-07-29,Australia,-5000,,,9851977398,Sports,4
+198,Judy,24,Female,2020-12-06,UK,-5000,89.79,,9886047020,clothes,5
+95,Ivan,150,M,05-08-2019,India,,,user95@example.com,9895033113,clothes,2
+4,Judy,,male,2022-05-23,india,-5000,error,,N/A,electronics,2
+29,Ivan,29,F,2019-05-27,uk ,-5000,,user29@mail,,Home,4
+168,Frank,51,M,07-21-2022,uk ,N/A,1989.61,user168@mail,,Sports,4
